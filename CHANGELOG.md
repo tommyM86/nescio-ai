@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.1](https://github.com/noctua84/nescio-ai/compare/v1.3.0...v1.3.1) (2026-08-24)
+
+
+### Bug Fixes
+
+* **docs:** stop diagrams colliding with the sidebars ([1d5c8ea](https://github.com/noctua84/nescio-ai/commit/1d5c8ea4e1d07e4df17e6b36700c43fd3bcbbfc0))
+* **docs:** stop diagrams colliding with the sidebars ([616caa0](https://github.com/noctua84/nescio-ai/commit/616caa0c0f04fd02babc348e74230bba19136a08))
+
 ## [1.3.0](https://github.com/noctua84/nescio-ai/compare/v1.2.0...v1.3.0) (2026-08-23)
 
 
